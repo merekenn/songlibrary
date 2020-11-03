@@ -1,0 +1,198 @@
+[
+    {
+        "genre": "pop",
+        "id": 1,
+        "artist": "Ariana Grande",
+        "title": "positions",
+        "img": "http://merekennedy.com/5110/week10/jamboree/img/pop/arianagrande.jpg",
+    },
+
+    {
+        "genre": "pop",
+        "id": 2,
+        "artist": "Harry Styles",
+        "title": "Golden",
+        "img": "http://merekennedy.com/5110/week10/jamboree/img/pop/harrystyles.jpg",
+    },
+
+    {
+        "genre": "pop",
+        "id": 3,
+        "artist": "Joji",
+        "title": "Gimme Love",
+        "img": "http://merekennedy.com/5110/week10/jamboree/img/pop/joji.jpg",
+    },
+
+    {
+        "genre": "pop",
+        "id": 4,
+        "artist": "Clairo",
+        "title": "Sofia",
+        "img": "http://merekennedy.com/5110/week10/jamboree/img/pop/clairo.jpg",
+    },
+
+    {
+        "genre": "pop",
+        "id": 5,
+        "artist": "Miley Cyrys",
+        "title": "Midnight Sky",
+        "img": "http://merekennedy.com/5110/week10/jamboree/img/pop/mileycyrus.jpg",
+    },
+
+    {
+        "genre": "folk",
+        "id": 6,
+        "artist": "Fleet Foxes",
+        "title": "Featherweight",
+        "img": "http://merekennedy.com/5110/week10/jamboree/img/folk/fleetfoxes.jpg",
+    },
+    
+    {
+        "genre": "folk",
+        "id": 7,
+        "artist": "The War On Drugs",
+        "title": "Strangest Thing",
+        "img": "http://merekennedy.com/5110/week10/jamboree/img/folk/warondrugs.jpg",
+    },
+
+    {
+        "genre": "folk",
+        "id": 8,
+        "artist": "John Frusciante"
+        "title": "Anne",
+        "img": "http://merekennedy.com/5110/week10/jamboree/img/folk/johnfrusciante.jpg",
+    },
+
+    {
+        "genre": "folk",
+        "id": 9,
+        "artist": "Big Thief",
+        "title": "Two Hands",
+        "img": "http://merekennedy.com/5110/week10/jamboree/img/folk/bigthief.jpg",
+},
+    {
+        "genre": "folk",
+        "id": 10,
+        "artist": "Angel Olsen",
+        "title": "All Mirrors",
+        "img": "http://merekennedy.com/5110/week10/jamboree/img/folk/angelolsen.jpg",
+}
+    {
+        "genre": "indie",
+        "id": 11,
+        "artist": "Khruangbin",
+        "title": "So We Wont Forget",
+        "img": "http://merekennedy.com/5110/week10/jamboree/img/indie/khruangbin.jpg",
+},
+    {
+        "genre": "indie",
+        "id": 12,
+        "artist": "Orchid Mantis",
+        "title": "Yellow House",
+        "img": "http://merekennedy.com/5110/week10/jamboree/img/indie/orchidmantis.jpg",
+    },
+
+    {
+        "genre": "indie",
+        "id": 13,
+        "artist": "Fog Lake",
+        "title": "Farther Reaches",
+        "img": "http://merekennedy.com/5110/week10/jamboree/img/indie/foglake.jpg",
+    },
+
+    {
+        "genre": "indie",
+        "id": 14,
+        "artist": "Triathalon",
+        "title": "Take It Easy",
+        "img": "http://merekennedy.com/5110/week10/jamboree/img/indie/triathalon.jpg",
+    },
+
+    {
+        "genre": "indie",
+        "id": 15,
+        "artist": "Beach House",
+        "title": "Dark Spring",
+        "img": "http://merekennedy.com/5110/week10/jamboree/img/indie/beachhouse.jpg",
+    },
+
+    {
+        "genre": "rock",
+        "id": 16,
+        "artist": "Triángulo de Amor Bizarro",
+        "title": "Fukushima",
+        "img": "http://merekennedy.com/5110/week10/jamboree/img/rock/tamor.jpg",
+    },
+
+    {
+        "genre": "rock",
+        "id": 17,
+        "artist": "Nothing",
+        "title": "Somersalt",
+        "img": "http://merekennedy.com/5110/week10/jamboree/img/rock/nothing.jpg",
+    },
+
+    {
+        "genre": "rock",
+        "id": 18,
+        "artist": "Bardo Pond",
+        "title": "Tommy Gun Angel",
+        "img": "http://merekennedy.com/5110/week10/jamboree/img/rock/bardopond.jpg",
+    },
+
+    {
+        "genre": "rock",
+        "id": 19,
+        "artist": "Kikagaku Moyo",
+        "title": "Trad",
+        "img": "http://merekennedy.com/5110/week10/jamboree/img/rock/kik.jpg",
+    },
+
+    {
+        "genre": "rock",
+        "id": 20,
+        "artist": "The Microphones",
+        "title": "The Pull",
+        "img": "http://merekennedy.com/5110/week10/jamboree/img/rock/mics.jpg",
+    },
+
+    {
+        "genre": "rap",
+        "id": 21,
+        "artist": "Duckwrth",
+        "title": "IM DEAD",
+        "img": "http://merekennedy.com/5110/week10/jamboree/img/rap/duckwrth.jpg",
+    },
+
+    {
+        "genre": "rap",
+        "id": 22,
+        "artist": "Mac Miller",
+        "title": "Whats the Use?",
+        "img": "http://merekennedy.com/5110/week10/jamboree/img/rap/macmiller.jpg",
+    },
+
+    {
+        "genre": "rap",
+        "id": 23,
+        "artist": "Coco and Clair Clair",
+        "title": "Sims 2",
+        "img": "http://merekennedy.com/5110/week10/jamboree/img/rap/cccc.jpg";
+    },
+
+    {
+        "genre": "rap",
+        "id": 24,
+        "artist": "Kendrick Lamar",
+        "title": "Money Trees",
+        "img": "http://merekennedy.com/5110/week10/jamboree/img/rap/kendricklamar.jpg";
+    },
+
+    {
+        "genre": "rap",
+        "id": 25,
+        "artist": "Frank Ocean",
+        "title": "Biking",
+        "img": "http://merekennedy.com/5110/week10/jamboree/img/rap/frank.jpg",
+    },
+]
